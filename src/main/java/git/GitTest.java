@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello github-idea");
         System.out.println("hello github4");
         System.out.println("master merge");
+        System.out.println("hot-fix merge");
     }
 }
